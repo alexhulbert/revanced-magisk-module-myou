@@ -3,6 +3,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "module"
 version = "19.47.53"
 included-patches = "'MaterialYou'"
+excluded-patches = "'Theme'"
 
 [Music]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
