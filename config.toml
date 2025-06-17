@@ -1,4 +1,12 @@
 [YouTube]
-build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+build-mode = "module"
+version = "19.47.53"
 included-patches = "'MaterialYou'"
+
+[Music]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+build-mode = "module"
+version = "8.12.53"
+patcher-args = "-e 'Dark theme' -OmaterialYou=true"
+
