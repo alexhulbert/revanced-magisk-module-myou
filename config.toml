@@ -1,3 +1,4 @@
 [YouTube]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 included-patches = "'MaterialYou'"
