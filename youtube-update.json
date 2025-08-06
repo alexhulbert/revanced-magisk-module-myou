@@ -1,6 +1,6 @@
 {
-  "version": "v19.47.53 (patches 5.32.0)",
-  "versionCode": 13,
-  "zipUrl": "https://github.com/alexhulbert/revanced-magisk-module-myou/releases/download/13/youtube-revanced-magisk-v19.47.53-all.zip",
+  "version": "v19.47.53 (patches 5.33.0)",
+  "versionCode": 14,
+  "zipUrl": "https://github.com/alexhulbert/revanced-magisk-module-myou/releases/download/14/youtube-revanced-magisk-v19.47.53-all.zip",
   "changelog": "https://raw.githubusercontent.com/alexhulbert/revanced-magisk-module-myou/update/build.md"
 }
