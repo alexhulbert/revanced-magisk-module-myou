@@ -1,6 +1,6 @@
 {
-  "version": "v8.12.53 (patches 5.35.0)",
-  "versionCode": 16,
-  "zipUrl": "https://github.com/alexhulbert/revanced-magisk-module-myou/releases/download/16/music-revanced-magisk-v8.12.53-arm-v7a.zip",
+  "version": "v8.12.53 (patches 5.36.0)",
+  "versionCode": 17,
+  "zipUrl": "https://github.com/alexhulbert/revanced-magisk-module-myou/releases/download/17/music-revanced-magisk-v8.12.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/alexhulbert/revanced-magisk-module-myou/update/build.md"
 }
